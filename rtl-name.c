@@ -1,4 +1,4 @@
-/* Copyright (C) 2021 ويكيبيديا‏
+/* Copyright (C) 2021 ‏ويكيبيديا‏
  * The name should be "wikipedia" transliterated to arabic
  * 
  * You may use, distribute and modify this code under the
